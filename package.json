@@ -1,0 +1,20 @@
+{
+  "name": "filemenage",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "dual-listbox": "^2.0.0",
+    "jquery": "^3.7.1",
+    "next": "14.2.4",
+    "react": "^18",
+    "react-bootstrap": "^2.10.2",
+    "react-dom": "^18"
+  }
+}
